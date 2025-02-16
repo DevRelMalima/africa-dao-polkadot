@@ -1,13 +1,16 @@
-# Sample Hardhat Project
+# Simple DAO on Polkadot Asset Hub
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+## Overview
+This project demonstrates how to build a simple Decentralized Autonomous Organization (DAO) using Solidity, Hardhat, and TypeScript. The DAO includes features like token-based voting, time-locking proposals, and upgradability.
 
-Try running some of the following tasks:
+## Prerequisites
+- Node.js (v16 or later)
+- Yarn (v1 or later)
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.ts
-```
+## Setup
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/DevRelMalima/africa-dao-polkadot
+   cd africa-dao-polkadot
+
+   
