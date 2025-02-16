@@ -1,4 +1,4 @@
-# Simple DAO on Polkadot Asset Hub
+# Simple DAO on Polkadot Asset Hub(Moonbase Alpha)
 
 ## Overview
 This project demonstrates how to build a simple Decentralized Autonomous Organization (DAO) using Solidity, Hardhat, and TypeScript. The DAO includes features like token-based voting, time-locking proposals, and upgradability.
